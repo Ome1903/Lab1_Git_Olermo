@@ -1,1 +1,1 @@
-print("Simulation version")
+print("Main version")
