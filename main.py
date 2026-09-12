@@ -1,1 +1,1 @@
-print("Hello simulation")
+print("Hello from main")
